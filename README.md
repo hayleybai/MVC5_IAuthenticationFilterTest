@@ -1,0 +1,2 @@
+# MVC5_IAuthenticationFilterTest
+IAuthenticationFilter 接口实现认证和授权分离验证
